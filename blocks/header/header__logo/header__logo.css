@@ -1,0 +1,14 @@
+.header__logo {
+   align-items: flex-end;
+   width: 176px;
+   height: 52px;
+   margin: 0;
+}
+
+@media (max-width: 460px) {
+   .header__logo {
+      width: 142px;
+      height: 42px;
+     
+   }
+}

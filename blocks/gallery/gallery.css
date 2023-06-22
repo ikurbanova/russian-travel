@@ -1,0 +1,32 @@
+.gallery {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+   grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
+   box-sizing: border-box;
+   gap: 16px;
+   margin: auto;
+   max-width: 92.5vw;
+   margin: auto;
+   padding-top: 92px;
+}
+
+@media (max-width: 1024px) {
+   .gallery {
+     max-width: 90.6vw;
+     gap: 14px;
+   }
+}
+
+@media (max-width: 768px) {
+   .gallery {
+     max-width: 93.7vw;
+     gap: 16px;
+   }
+}
+
+@media (max-width: 320px) {
+   .gallery {
+      max-width: 90vw;
+      gap: 12px;
+   }
+}

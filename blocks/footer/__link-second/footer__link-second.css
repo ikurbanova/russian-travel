@@ -1,0 +1,15 @@
+.footer__link-second {
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 16px;
+/* identical to box height, or 114% */
+   text-align: right;
+}
+
+@media (max-width: 320px) {
+   .footer__link-second {  
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 14px;
+   }  
+}

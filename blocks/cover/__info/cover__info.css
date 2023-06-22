@@ -1,0 +1,6 @@
+.cover__info {
+   margin: auto;
+   max-width: 560px;
+   position: relative;
+   z-index: 2;
+}

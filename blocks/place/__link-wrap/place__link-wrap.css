@@ -1,0 +1,16 @@
+.place__link-wrap {
+   display: flex;
+   flex-direction: column;
+   align-self: flex-end;
+   gap: 12px;
+}
+
+@media (max-width: 320px) {
+   
+   .place__link-wrap {
+     width: 288px;
+     margin: auto;
+   
+   }
+}
+   
