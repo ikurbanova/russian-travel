@@ -10,12 +10,8 @@
 
 @media (max-width: 470px) {
    .header__lang-link {
-      font-family: 'Inter';
-      font-style: normal;
-      font-weight: 400;
       font-size: 18px;
       line-height: 20px;
-      /* identical to box height, or 111% */
       
       text-align: right; 
    }

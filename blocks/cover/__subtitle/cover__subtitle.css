@@ -15,11 +15,9 @@
 @media (max-width: 320px) {
    .cover__subtitle {  
      width: 90vw;
-     font-family: 'Inter';
      font-size: 14px;
      line-height: 16px;
 /* or 114% */
-     text-align: center;
      margin-top: 16px;
 
 
