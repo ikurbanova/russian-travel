@@ -1,6 +1,8 @@
 .footer__links {
    display: flex;
    gap: 18px;
+
+  
 }
 
 @media (max-width: 665px) {
@@ -9,3 +11,4 @@
      gap: 32px;
    }
 }
+

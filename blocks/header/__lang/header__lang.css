@@ -1,7 +1,7 @@
 .header__lang {
   display: flex;
-  align-items: flex-end;
-  column-gap: 18px;
+  align-items: center;
+  gap: 18px;
   
 
 

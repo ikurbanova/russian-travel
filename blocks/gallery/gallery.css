@@ -5,8 +5,7 @@
    box-sizing: border-box;
    gap: 16px;
    margin: auto;
-   max-width: 92.5vw;
-   padding-top: 92px;
+   max-width: 1184px;
 }
 
 @media (max-width: 1024px) {

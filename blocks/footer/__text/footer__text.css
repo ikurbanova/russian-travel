@@ -1,0 +1,16 @@
+.footer__text {
+   margin: 0;
+   font-family: "Inter", "Arial", sans-serif;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 16px;
+   text-align: right;
+   width: 100%;
+}
+
+@media (max-width: 665px) {
+   .footer__text {  
+      line-height: 14px;
+      text-align: left;
+   }  
+}

@@ -1,12 +1,15 @@
-.header__logo {
-   align-items: flex-end;
+.logo {
+
    width: 176px;
    height: 52px;
    margin: 0;
+   text-decoration: none;
+   display: block; 
 }
 
+
 @media (max-width: 460px) {
-   .header__logo {
+   .logo {
       width: 142px;
       height: 42px;
      
