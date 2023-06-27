@@ -31,12 +31,10 @@
    left: 0;
    background-color:#2A2C2F;
    opacity: 0.3;
+   transition: ease-in;
 }
 
 .cover__info:hover::before {
-
-   background-color: #2A2C2F;
    opacity: 0.8;
-   transition: ease-in; 
 }
 
