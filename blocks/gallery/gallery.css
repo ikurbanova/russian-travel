@@ -8,16 +8,16 @@
    max-width: 1184px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1200px) {
    .gallery {
-     max-width: 90.6vw;
+     max-width: 90.625vw;
      gap: 14px;
    }
 }
 
 @media (max-width: 768px) {
    .gallery {
-     max-width: 93.7vw;
+     max-width: 93.755vw;
      gap: 16px;
    }
 }

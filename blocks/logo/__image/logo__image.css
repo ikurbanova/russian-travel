@@ -1,6 +1,17 @@
-.logo_image {
+.logo__image {
    width: 100%;
    object-fit: cover;
    display: block;
+   width: 176px;
+   height: 52px;
  
  }
+
+
+@media (max-width: 470px) {
+   .logo__image {
+      width: 142px;
+      height: 42px;
+     
+   }
+}

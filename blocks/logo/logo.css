@@ -1,17 +1,6 @@
 .logo {
-
-   width: 176px;
-   height: 52px;
    margin: 0;
    text-decoration: none;
    display: block; 
 }
 
-
-@media (max-width: 460px) {
-   .logo {
-      width: 142px;
-      height: 42px;
-     
-   }
-}
